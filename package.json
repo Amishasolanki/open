@@ -1,8 +1,5 @@
 {
   "name": "ipl_ai_suite",
   "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "bash vercel-build.sh"
-  }
+  "private": true
 }
